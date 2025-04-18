@@ -1,6 +1,6 @@
 ## Hi, I'm Artem 👋
 #### I'm Python backend developer.
-#### I created a platform for developing and hosting telegram bots without programming knowledge. [https://nocode-bot.ru](https://nocode-bot.ru)
+#### I'm creator of the platform for developing and hosting telegram bots without programming knowledge. [https://nocode-bot.ru](https://nocode-bot.ru)
 #### I'm from Minsk. Looking for a job (office/remote).
 
 ---
