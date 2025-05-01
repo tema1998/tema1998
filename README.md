@@ -39,6 +39,11 @@
 ![pytest]
 ![unittest]
 
+![Logs]
+![Filebeat]
+![Logstash]
+![Kibana]
+
 ![Another]
 ![RabbitMQ]
 ![Celery]
@@ -82,6 +87,12 @@
 [Tests]: https://img.shields.io/static/v1?label=&message=Tests:&color=555&style=flat-square
 [pytest]: https://img.shields.io/badge/pytest-000000?style=for-the-badge&logo=pytest&logoColor=orange
 [unittest]: https://img.shields.io/badge/unittest-000000?style=for-the-badge&logo=unittest&logoColor=green
+
+[Logs]: https://img.shields.io/static/v1?label=&message=Logs:&color=555&style=flat-square
+[Filebeat]: https://img.shields.io/badge/filebeat-000000?style=for-the-badge&logo=beats&logoColor=blue
+[Logstash]: https://img.shields.io/badge/logstash-000000?style=for-the-badge&logo=logstash&logoColor=yellow
+[Kibana]: https://img.shields.io/badge/kibana-000000?style=for-the-badge&logo=kibana&logoColor=pink
+
 
 [Another]: https://img.shields.io/static/v1?label=&message=Another:&color=555&style=flat-square
 [RabbitMQ]: https://img.shields.io/badge/rabbitmq-000000?style=for-the-badge&logo=rabbitmq&logoColor=orange
