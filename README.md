@@ -2,12 +2,6 @@
 #### I'm Python backend developer.
 ---
 
-#### My project: [https://nocode-bot.ru](https://nocode-bot.ru)
-#### This is the platform that allows you to create bots for Telegram without programming knowledge and ensure round-the-clock availability of the bot without the need for hosting maintenance.
-#### This is a completely free and open source platform.
-
----
-
 ## Technologies that I use
 ![Languages]
 ![Python]
