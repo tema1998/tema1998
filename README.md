@@ -1,7 +1,5 @@
 ## Hi, I'm Artem 👋
 #### I'm Python backend developer.
-#### I'm from Minsk. Looking for a job (office/remote).
-
 ---
 
 #### My project: [https://nocode-bot.ru](https://nocode-bot.ru)
